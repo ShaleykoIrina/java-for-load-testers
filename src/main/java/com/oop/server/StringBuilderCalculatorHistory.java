@@ -1,4 +1,4 @@
-package com.oop;
+package com.oop.server;
 
 public class StringBuilderCalculatorHistory implements CalculatorHistory {
     private StringBuilder log = new StringBuilder();
